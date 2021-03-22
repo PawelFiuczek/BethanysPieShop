@@ -38,3 +38,14 @@ C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.dll
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.input.cache
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.output.cache
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorCoreGenerate.cache
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
