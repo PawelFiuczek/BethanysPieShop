@@ -94,3 +94,4 @@ C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
