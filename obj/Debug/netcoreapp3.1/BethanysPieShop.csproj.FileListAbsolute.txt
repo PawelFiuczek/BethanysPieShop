@@ -97,3 +97,5 @@ C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
