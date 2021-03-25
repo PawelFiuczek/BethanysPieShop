@@ -33,6 +33,7 @@ namespace BethanysPieShop
             services.AddDbContext<AppDbContext>(optionsAction => 
                                                 optionsAction.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
             services.AddHttpContextAccessor();
             services.AddSession();
