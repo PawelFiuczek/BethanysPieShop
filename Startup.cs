@@ -56,6 +56,7 @@ namespace BethanysPieShop
 
             app.UseStatusCodePages();
             app.UseRouting();
+            app.UseAuthentication();
             
             app.UseEndpoints(endpoints =>
             {
