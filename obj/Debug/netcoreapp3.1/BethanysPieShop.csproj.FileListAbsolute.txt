@@ -187,3 +187,11 @@ C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
