@@ -103,3 +103,15 @@ C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
 C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.StaticWebAssets.xml
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zelo9\Desktop\Bethanys_Pie_Shop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cs
